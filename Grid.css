@@ -3,6 +3,7 @@
 .img {
     float: left;
     position: relative;
+    border: #2A4A5C;
 }
 
 .aside {float: right;
